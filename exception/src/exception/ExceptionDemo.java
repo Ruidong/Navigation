@@ -15,6 +15,6 @@ public class ExceptionDemo {
             		System.out.println(e);
             	}
             	System.out.println("over");
-            	
+            	System.out.println("");
             }
 }
