@@ -13,9 +13,9 @@ public class myMarker
         this.mLongitude = longitude;
     }
     
-    public myMarker returnMarker(String label){
+    public myMarker returnMarker(double latitude){
     	  
-    	if(this.mLabel==label)
+    	if(this.mLatitude==latitude)
     	return this;
     	else
         return null;

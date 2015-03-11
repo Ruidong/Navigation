@@ -94,12 +94,13 @@ int drawable navigation_icon 0x7f02001f
 int drawable powered_by_google_dark 0x7f020020
 int drawable powered_by_google_light 0x7f020021
 int drawable search_button 0x7f020022
-int id bHybrid 0x7f0a001a
+int id BottomButton 0x7f0a0018
+int id bHybrid 0x7f0a001d
 int id bNavigation 0x7f0a0016
-int id bNormal 0x7f0a0018
-int id bSatellite 0x7f0a0019
+int id bNormal 0x7f0a001b
+int id bSatellite 0x7f0a001c
 int id bSearch 0x7f0a0015
-int id bTerrain 0x7f0a001b
+int id bTerrain 0x7f0a001e
 int id book_now 0x7f0a000e
 int id buyButton 0x7f0a000a
 int id buy_now 0x7f0a000f
@@ -121,6 +122,8 @@ int id satellite 0x7f0a0003
 int id selectionDetails 0x7f0a000b
 int id strict_sandbox 0x7f0a0009
 int id terrain 0x7f0a0004
+int id textView1 0x7f0a0019
+int id textView2 0x7f0a001a
 int id wrap_content 0x7f0a000d
 int integer google_play_services_version 0x7f070000
 int layout activity_navigation 0x7f030000
